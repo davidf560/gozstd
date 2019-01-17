@@ -1,1 +1,1 @@
-module github.com/valyala/gozstd
+module github.com/davidf560/gozstd
